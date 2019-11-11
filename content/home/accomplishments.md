@@ -38,4 +38,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "a course of study offered by Microsoft"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
 +++
