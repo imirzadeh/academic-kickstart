@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bryan Minor | Iman Mirzadeh</title>
+    <link>https://imirzadeh.me/authors/bryan-minor/</link>
+      <atom:link href="https://imirzadeh.me/authors/bryan-minor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bryan Minor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 18:57:02 -0800</lastBuildDate>
+    <image>
+      <url>https://imirzadeh.me/img/icon-192.png</url>
+      <title>Bryan Minor</title>
+      <link>https://imirzadeh.me/authors/bryan-minor/</link>
+    </image>
+    
+    <item>
+      <title>LabelMerger: Learning Activities in Uncontrolled Environments</title>
+      <link>https://imirzadeh.me/publication/labelmerge/</link>
+      <pubDate>Sun, 10 Nov 2019 18:57:02 -0800</pubDate>
+      <guid>https://imirzadeh.me/publication/labelmerge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
