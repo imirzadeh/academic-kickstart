@@ -15,7 +15,7 @@ role: Graduate Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Washington State University
-  url: "http://epsl.eecs.wsu.edu/"
+  url: "http://epsl.eecs.wsu.edu/research/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include real-world challenges of Machine Learning models such as power optimization, and model compression.
@@ -57,9 +57,9 @@ social:
   link: https://www.linkedin.com/in/iman-mirzadeh-a687278b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://www.imirzadeh.me/dl/cv_imirzadeh.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student and Graduate Research Assistant at the Washington State University [Embedded and Pervasive Systems Laboratory (EPSL)](http://epsl.eecs.wsu.edu/people/) with [Dr. Hassan Ghasemzadeh](https://eecs.wsu.edu/~hassan/). I am interested in the real-world challenges of working with machine learning models such as energy constraints and human-in-the-loop interactions with these models. Specifically, I am focusing on Model Optimization (such as model compression), where my goal is to build more efficient models or use the existing models more efficiently!
+I am a PhD student and Graduate Research Assistant at the Washington State University [Embedded and Pervasive Systems Laboratory (EPSL)](http://epsl.eecs.wsu.edu/people/) under supervision of [Dr. Hassan Ghasemzadeh](https://eecs.wsu.edu/~hassan/). I am interested in the real-world challenges of working with machine learning models such as energy constraints and human-in-the-loop interactions with these models. Specifically, I am focusing on Model Optimization (such as model compression), where my goal is to build more efficient models or use the existing models more efficiently!
 
 
 Before joining EPSL, I was an ML Engineer at [Sokhan AI](https://www.linkedin.com/company/fanavaran-etelaate-sokhan/), where we provided accurate and scalable Natural Language Processing (NLP) and Computer Vision (CV) services to businesses.
