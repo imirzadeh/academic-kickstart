@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ramin Fallahzadeh | Iman Mirzadeh</title>
-    <link>https://imirzadeh.me/authors/ramin-fallahzadeh/</link>
-      <atom:link href="https://imirzadeh.me/authors/ramin-fallahzadeh/index.xml" rel="self" type="application/rss+xml" />
+    <link>imirzadeh.me/authors/ramin-fallahzadeh/</link>
+      <atom:link href="imirzadeh.me/authors/ramin-fallahzadeh/index.xml" rel="self" type="application/rss+xml" />
     <description>Ramin Fallahzadeh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 18:57:02 -0800</lastBuildDate>
     <image>
-      <url>https://imirzadeh.me/img/icon-192.png</url>
+      <url>imirzadeh.me/img/icon-192.png</url>
       <title>Ramin Fallahzadeh</title>
-      <link>https://imirzadeh.me/authors/ramin-fallahzadeh/</link>
+      <link>imirzadeh.me/authors/ramin-fallahzadeh/</link>
     </image>
     
     <item>
       <title>LabelMerger: Learning Activities in Uncontrolled Environments</title>
-      <link>https://imirzadeh.me/publication/labelmerge/</link>
+      <link>imirzadeh.me/publication/labelmerge/</link>
       <pubDate>Sun, 10 Nov 2019 18:57:02 -0800</pubDate>
-      <guid>https://imirzadeh.me/publication/labelmerge/</guid>
+      <guid>imirzadeh.me/publication/labelmerge/</guid>
       <description></description>
     </item>
     

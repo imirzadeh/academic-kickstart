@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Iman Mirzadeh</title>
-    <link>https://imirzadeh.me/talk/</link>
-      <atom:link href="https://imirzadeh.me/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>imirzadeh.me/talk/</link>
+      <atom:link href="imirzadeh.me/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://imirzadeh.me/img/icon-192.png</url>
+      <url>imirzadeh.me/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://imirzadeh.me/talk/</link>
+      <link>imirzadeh.me/talk/</link>
     </image>
     
     <item>
       <title>Private AI: Differential Privacy and Federated Learning</title>
-      <link>https://imirzadeh.me/talk/differential-privacy/</link>
+      <link>imirzadeh.me/talk/differential-privacy/</link>
       <pubDate>Thu, 15 Aug 2019 20:56:29 -0800</pubDate>
-      <guid>https://imirzadeh.me/talk/differential-privacy/</guid>
+      <guid>imirzadeh.me/talk/differential-privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning Beyond Curve Fitting: Introduction to Causality</title>
-      <link>https://imirzadeh.me/talk/causality/</link>
+      <link>imirzadeh.me/talk/causality/</link>
       <pubDate>Sun, 10 Feb 2019 13:00:00 -0800</pubDate>
-      <guid>https://imirzadeh.me/talk/causality/</guid>
+      <guid>imirzadeh.me/talk/causality/</guid>
       <description></description>
     </item>
     

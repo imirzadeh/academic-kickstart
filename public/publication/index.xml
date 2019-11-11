@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Iman Mirzadeh</title>
-    <link>https://imirzadeh.me/publication/</link>
-      <atom:link href="https://imirzadeh.me/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>imirzadeh.me/publication/</link>
+      <atom:link href="imirzadeh.me/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://imirzadeh.me/img/icon-192.png</url>
+      <url>imirzadeh.me/img/icon-192.png</url>
       <title>Publications</title>
-      <link>https://imirzadeh.me/publication/</link>
+      <link>imirzadeh.me/publication/</link>
     </image>
     
     <item>
       <title>Improved Knowledge Distillation via Teacher Assistant</title>
-      <link>https://imirzadeh.me/publication/takd/</link>
+      <link>imirzadeh.me/publication/takd/</link>
       <pubDate>Sun, 10 Nov 2019 19:06:19 -0800</pubDate>
-      <guid>https://imirzadeh.me/publication/takd/</guid>
+      <guid>imirzadeh.me/publication/takd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LabelMerger: Learning Activities in Uncontrolled Environments</title>
-      <link>https://imirzadeh.me/publication/labelmerge/</link>
+      <link>imirzadeh.me/publication/labelmerge/</link>
       <pubDate>Sun, 10 Nov 2019 18:57:02 -0800</pubDate>
-      <guid>https://imirzadeh.me/publication/labelmerge/</guid>
+      <guid>imirzadeh.me/publication/labelmerge/</guid>
       <description></description>
     </item>
     
