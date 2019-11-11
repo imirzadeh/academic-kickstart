@@ -11,7 +11,7 @@ categories: []
 date: 2019-11-10T18:57:14-08:00
 lastmod: 2019-11-10T18:57:14-08:00
 featured: true
-draft: true
+draft: false
 abstract: "With the recent advances in both machine learning and embedded systems research, the demand to deploy these computational models on edge devices has increased substantially. Without deploying computational models on edge devices, frequent transmission of sensor data to the cloud results in rapid battery depletion because energy consumption due to wireless data transmission is significantly higher than that of on-the-device data processing. This rapid power dissipation leads to a considerable reduction in battery lifetime of the system, therefore jeopardizing real-world utility of smart devices. 
 
 A major challenge that obstructs the deployment of machine learning models on edge devices is the power limitations of these systems. It is well-established that for difficult machine learning tasks, models with higher performance often require more computation power and thus are not power-efficient choices for deployment on edge devices. However, trade-offs between performance and power consumption are not well studied. While numerous methods (e.g., model compression) have been developed to obtain an optimal model, these methods focus on improving the efficiency of a “single” model.
