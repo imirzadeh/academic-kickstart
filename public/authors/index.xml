@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Iman Mirzadeh</title>
-    <link>imirzadeh.me/authors/</link>
-      <atom:link href="imirzadeh.me/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://imirzadeh.me/authors/</link>
+      <atom:link href="https://imirzadeh.me/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 19:06:19 -0800</lastBuildDate>
     <image>
-      <url>imirzadeh.me/img/icon-192.png</url>
+      <url>https://imirzadeh.me/img/icon-192.png</url>
       <title>Authors</title>
-      <link>imirzadeh.me/authors/</link>
+      <link>https://imirzadeh.me/authors/</link>
     </image>
     
     <item>
       <title>Ang Li</title>
-      <link>imirzadeh.me/authors/ang-li/</link>
+      <link>https://imirzadeh.me/authors/ang-li/</link>
       <pubDate>Sun, 10 Nov 2019 19:06:19 -0800</pubDate>
-      <guid>imirzadeh.me/authors/ang-li/</guid>
+      <guid>https://imirzadeh.me/authors/ang-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hassan Ghasemzadeh</title>
-      <link>imirzadeh.me/authors/hassan-ghasemzadeh/</link>
+      <link>https://imirzadeh.me/authors/hassan-ghasemzadeh/</link>
       <pubDate>Sun, 10 Nov 2019 19:06:19 -0800</pubDate>
-      <guid>imirzadeh.me/authors/hassan-ghasemzadeh/</guid>
+      <guid>https://imirzadeh.me/authors/hassan-ghasemzadeh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mehrdad Farajtabar</title>
-      <link>imirzadeh.me/authors/mehrdad-farajtabar/</link>
+      <link>https://imirzadeh.me/authors/mehrdad-farajtabar/</link>
       <pubDate>Sun, 10 Nov 2019 19:06:19 -0800</pubDate>
-      <guid>imirzadeh.me/authors/mehrdad-farajtabar/</guid>
+      <guid>https://imirzadeh.me/authors/mehrdad-farajtabar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seyed Iman Mirzadeh</title>
-      <link>imirzadeh.me/authors/seyed-iman-mirzadeh/</link>
+      <link>https://imirzadeh.me/authors/seyed-iman-mirzadeh/</link>
       <pubDate>Sun, 10 Nov 2019 19:06:19 -0800</pubDate>
-      <guid>imirzadeh.me/authors/seyed-iman-mirzadeh/</guid>
+      <guid>https://imirzadeh.me/authors/seyed-iman-mirzadeh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bryan Minor</title>
-      <link>imirzadeh.me/authors/bryan-minor/</link>
+      <link>https://imirzadeh.me/authors/bryan-minor/</link>
       <pubDate>Sun, 10 Nov 2019 18:57:02 -0800</pubDate>
-      <guid>imirzadeh.me/authors/bryan-minor/</guid>
+      <guid>https://imirzadeh.me/authors/bryan-minor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diane Cook</title>
-      <link>imirzadeh.me/authors/diane-cook/</link>
+      <link>https://imirzadeh.me/authors/diane-cook/</link>
       <pubDate>Sun, 10 Nov 2019 18:57:02 -0800</pubDate>
-      <guid>imirzadeh.me/authors/diane-cook/</guid>
+      <guid>https://imirzadeh.me/authors/diane-cook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jessica C. Ardo</title>
-      <link>imirzadeh.me/authors/jessica-c.-ardo/</link>
+      <link>https://imirzadeh.me/authors/jessica-c.-ardo/</link>
       <pubDate>Sun, 10 Nov 2019 18:57:02 -0800</pubDate>
-      <guid>imirzadeh.me/authors/jessica-c.-ardo/</guid>
+      <guid>https://imirzadeh.me/authors/jessica-c.-ardo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lorraine Evangelista</title>
-      <link>imirzadeh.me/authors/lorraine-evangelista/</link>
+      <link>https://imirzadeh.me/authors/lorraine-evangelista/</link>
       <pubDate>Sun, 10 Nov 2019 18:57:02 -0800</pubDate>
-      <guid>imirzadeh.me/authors/lorraine-evangelista/</guid>
+      <guid>https://imirzadeh.me/authors/lorraine-evangelista/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ramin Fallahzadeh</title>
-      <link>imirzadeh.me/authors/ramin-fallahzadeh/</link>
+      <link>https://imirzadeh.me/authors/ramin-fallahzadeh/</link>
       <pubDate>Sun, 10 Nov 2019 18:57:02 -0800</pubDate>
-      <guid>imirzadeh.me/authors/ramin-fallahzadeh/</guid>
+      <guid>https://imirzadeh.me/authors/ramin-fallahzadeh/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>imirzadeh.me/authors/admin/</link>
+      <link>https://imirzadeh.me/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>imirzadeh.me/authors/admin/</guid>
+      <guid>https://imirzadeh.me/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student and Graduate Research Assistant at the Washington State University &lt;a href=&#34;http://epsl.eecs.wsu.edu/people/&#34; target=&#34;_blank&#34;&gt;Embedded and Pervasive Systems Laboratory (EPSL)&lt;/a&gt; under supervision of &lt;a href=&#34;https://eecs.wsu.edu/~hassan/&#34; target=&#34;_blank&#34;&gt;Dr. Hassan Ghasemzadeh&lt;/a&gt;. I am interested in the real-world challenges of working with machine learning models such as energy constraints and human-in-the-loop interactions with these models. Specifically, I am focusing on Model Optimization (such as model compression), where my goal is to build more efficient models or use the existing models more efficiently!&lt;/p&gt;
 
 &lt;p&gt;Before joining EPSL, I was an ML Engineer at &lt;a href=&#34;https://www.linkedin.com/company/fanavaran-etelaate-sokhan/&#34; target=&#34;_blank&#34;&gt;Sokhan AI&lt;/a&gt;, where we provided accurate and scalable Natural Language Processing (NLP) and Computer Vision (CV) services to businesses.&lt;/p&gt;

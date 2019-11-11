@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iman Mirzadeh</title>
-    <link>imirzadeh.me/authors/admin/</link>
-      <atom:link href="imirzadeh.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://imirzadeh.me/authors/admin/</link>
+      <atom:link href="https://imirzadeh.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Iman Mirzadeh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>imirzadeh.me/img/icon-192.png</url>
+      <url>https://imirzadeh.me/img/icon-192.png</url>
       <title>Iman Mirzadeh</title>
-      <link>imirzadeh.me/authors/admin/</link>
+      <link>https://imirzadeh.me/authors/admin/</link>
     </image>
     
   </channel>

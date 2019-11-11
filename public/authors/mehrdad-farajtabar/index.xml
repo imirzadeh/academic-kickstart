@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehrdad Farajtabar | Iman Mirzadeh</title>
-    <link>imirzadeh.me/authors/mehrdad-farajtabar/</link>
-      <atom:link href="imirzadeh.me/authors/mehrdad-farajtabar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://imirzadeh.me/authors/mehrdad-farajtabar/</link>
+      <atom:link href="https://imirzadeh.me/authors/mehrdad-farajtabar/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehrdad Farajtabar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 19:06:19 -0800</lastBuildDate>
     <image>
-      <url>imirzadeh.me/img/icon-192.png</url>
+      <url>https://imirzadeh.me/img/icon-192.png</url>
       <title>Mehrdad Farajtabar</title>
-      <link>imirzadeh.me/authors/mehrdad-farajtabar/</link>
+      <link>https://imirzadeh.me/authors/mehrdad-farajtabar/</link>
     </image>
     
     <item>
       <title>Improved Knowledge Distillation via Teacher Assistant</title>
-      <link>imirzadeh.me/publication/takd/</link>
+      <link>https://imirzadeh.me/publication/takd/</link>
       <pubDate>Sun, 10 Nov 2019 19:06:19 -0800</pubDate>
-      <guid>imirzadeh.me/publication/takd/</guid>
+      <guid>https://imirzadeh.me/publication/takd/</guid>
       <description></description>
     </item>
     

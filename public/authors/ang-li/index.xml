@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ang Li | Iman Mirzadeh</title>
-    <link>imirzadeh.me/authors/ang-li/</link>
-      <atom:link href="imirzadeh.me/authors/ang-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://imirzadeh.me/authors/ang-li/</link>
+      <atom:link href="https://imirzadeh.me/authors/ang-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Ang Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 19:06:19 -0800</lastBuildDate>
     <image>
-      <url>imirzadeh.me/img/icon-192.png</url>
+      <url>https://imirzadeh.me/img/icon-192.png</url>
       <title>Ang Li</title>
-      <link>imirzadeh.me/authors/ang-li/</link>
+      <link>https://imirzadeh.me/authors/ang-li/</link>
     </image>
     
     <item>
       <title>Improved Knowledge Distillation via Teacher Assistant</title>
-      <link>imirzadeh.me/publication/takd/</link>
+      <link>https://imirzadeh.me/publication/takd/</link>
       <pubDate>Sun, 10 Nov 2019 19:06:19 -0800</pubDate>
-      <guid>imirzadeh.me/publication/takd/</guid>
+      <guid>https://imirzadeh.me/publication/takd/</guid>
       <description></description>
     </item>
     
