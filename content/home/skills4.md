@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 102  # Order that this section will appear.
+weight = 113  # Order that this section will appear.
 
-title = "Skills"
+title = ""
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -14,41 +14,33 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "python"
-  icon_pack = "custom"
-  name = "Python"
 
 [[feature]]
-  icon = "cpp"
+  icon = "git"
   icon_pack = "custom"
-  name = "C++"
+  name = "Git"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "custom"
+  name = "Docker"
 
 
 [[feature]]
-  icon = "matlab"
+  icon = "kubernetes"
   icon_pack = "custom"
-  name = "Matlab"
+  name = "Kubernetes"
 
 [[feature]]
-  icon = "java"
+  icon = "kibana"
   icon_pack = "custom"
-  name = "Java"
-
-[[feature]]
-  icon = "bash"
-  icon_pack = "custom"
-  name = "Bash"
-
-[[feature]]
-  icon = "sql"
-  icon_pack = "custom"
-  name = "SQL"
+  name = "Kibana"
 
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "15px", "0"]
+
 
 
 # Uncomment to use emoji icons.
@@ -63,6 +55,5 @@ subtitle = ""
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 
 +++
-## Programming Languages
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Development Tools 
 
