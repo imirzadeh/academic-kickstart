@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Razvan Pascanu | Iman Mirzadeh</title>
+    <link>https://imirzadeh.me/authors/razvan-pascanu/</link>
+      <atom:link href="https://imirzadeh.me/authors/razvan-pascanu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Razvan Pascanu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2020 01:22:35 -0700</lastBuildDate>
+    <image>
+      <url>https://imirzadeh.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Razvan Pascanu</title>
+      <link>https://imirzadeh.me/authors/razvan-pascanu/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the Role of Training Regimes in Continual Learning</title>
+      <link>https://imirzadeh.me/publication/cl-training-regime/</link>
+      <pubDate>Sat, 25 Jul 2020 01:22:35 -0700</pubDate>
+      <guid>https://imirzadeh.me/publication/cl-training-regime/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
