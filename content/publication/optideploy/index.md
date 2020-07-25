@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "With the recent advances in both machine learning and embedded systems research, the demand to deploy computational models for real-time execution on edge devices has increased substantially. Without deploying computational models on edge devices, the frequent transmission of sensor data to the cloud results in rapid battery draining due to the energy consumption of wireless data transmission. This rapid power dissipation leads to a considerable reduction in the battery lifetime of the system, therefore jeopardizing the real-world utility of smart devices. It is well-established that for difficult machine learning tasks, models with higher performance often require more computation power and thus are not power-efficient choices for deployment on edge devices. However, the trade-offs between performance and power consumption are not well studied. While numerous methods (e.g., model compression) have been developed to obtain an optimal model, these methods focus on improving the efficiency of a ''single'' model. In an entirely new direction, we introduce an effective method to find a combination of ''multiple''  models that are optimal in terms of power-efficiency and performance by solving an optimization problem in which both performance and power consumption are taken into account. Experimental results demonstrate that on the ImageNet dataset, we can achieve a 20% energy reduction with only 0.3% accuracy drop compared to Squeeze-and-Excitation Networks.  Compared to a pruned convolutional neural network for human activity recognition, while consuming 1.7% less energy, our proposed policy achieves 1.3% higher accuracy."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "**Accepted to International Joint Conferences on Artificial Intelligence Organization (IJCAI)**"
 
 tags: []
 categories: []
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.dropbox.com/s/1gac1vx18nm6yup/IJCAI20_OptDeploy%20%2817%29.pdf?dl=0
+url_pdf: https://www.ijcai.org/Proceedings/2020/473
 url_code:
 url_dataset:
 url_poster:

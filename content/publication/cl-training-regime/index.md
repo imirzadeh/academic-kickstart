@@ -1,28 +1,29 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dropout as an Implicit Gating Mechanism For Continual Learning"
-authors: [Iman Mirzadeh, Mehrdad Farajtabar, Hassan Ghasemzadeh]
-date: 2020-04-21T00:03:28-07:00
+title: "Understanding the Role of Training Regimes in Continual Learning"
+authors: [Iman Mirzadeh, Mehrdad Farajtabar, Razvan Pascanu, Hassan Ghasemzadeh]
+date: 2020-07-25T01:22:35-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-04-21T00:03:28-07:00
+publishDate: 2020-07-25T01:22:35-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+publication: "Arxiv Preprint"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "**[Runner-up award](https://sites.google.com/view/clvision2020/paper-awards?authuser=0) at CVPR'20 Workshop on Continual Learning in Computer Vision**"
+summary: "**The abstract version presented at [ICML 2020 Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home?authuser=0)**"
+
 tags: []
 categories: []
 featured: false
@@ -35,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://openaccess.thecvf.com/content_CVPRW_2020/html/w15/Mirzadeh_Dropout_as_an_Implicit_Gating_Mechanism_for_Continual_Learning_CVPRW_2020_paper.html
+url_pdf: https://arxiv.org/pdf/2006.06958.pdf
 url_code: https://github.com/imirzadeh/stable-continual-learning
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://www.imirzadeh.me/dl/ICML%20-%20CL%20%26%20Training%20Regime.pdf
 url_source:
-url_video: https://www.youtube.com/watch?v=X21-uEBwmNw&list=PLm6QXeaB-XkAvn2FEDLGV5U9tzJYHaQUw&index=10
+url_video: https://youtu.be/Z_cvk_BiO70?t=720
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
