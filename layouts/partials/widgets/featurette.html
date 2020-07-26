@@ -21,7 +21,7 @@
   {{ if in (slice "fab" "fas" "far" "fal") $pack }}
     {{ $pack_prefix = "fa" }}
   {{ end }}
-  <div class="col-12 col-sm-3">
+  <div class="col-3 col-md-2">
     {{ with .icon }}
     <div class="featurette-icon">
       {{- if eq $pack "emoji" -}}
@@ -34,7 +34,7 @@
       {{- end -}}
     </div>
     {{ end }}
-    <h3>{{ .name | markdownify | emojify }}</h3>
+    <h3 style="font-size: 1.5vmax">{{ .name | markdownify | emojify }}</h3>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
