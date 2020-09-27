@@ -16,14 +16,14 @@ publishDate: 2020-04-21T00:03:28-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+publication: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2020"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: "**[Runner-up award](https://sites.google.com/view/clvision2020/paper-awards?authuser=0) at CVPR'20 Workshop on Continual Learning in Computer Vision**"
-tags: []
+tags: ["publight"]
 categories: []
 featured: false
 
@@ -45,7 +45,7 @@ url_source:
 url_video: https://www.youtube.com/watch?v=X21-uEBwmNw&list=PLm6QXeaB-XkAvn2FEDLGV5U9tzJYHaQUw&index=10
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""

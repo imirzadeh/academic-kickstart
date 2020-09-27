@@ -13,10 +13,10 @@ publishDate: 2020-07-25T01:22:35-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv Preprint"
+publication: "Advances in Neural Information Processing Systems (NeurIPS) 2020"
 publication_short: ""
 
 abstract: ""
@@ -24,9 +24,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "**The abstract version presented at [ICML 2020 Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home?authuser=0)**"
 
-tags: []
+tags: ["publight"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -46,7 +46,7 @@ url_source:
 url_video: https://youtu.be/Z_cvk_BiO70?t=720
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
