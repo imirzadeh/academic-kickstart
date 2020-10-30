@@ -3,63 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://imirzadeh.me/publication_types/3/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <loc>https://imirzadeh.me/publication_types/1/</loc>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/authors/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/authors/hassan-ghasemzadeh/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/authors/iman-mirzadeh/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/authors/mehrdad-farajtabar/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/publication_types/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imirzadeh.me/tags/publight/</loc>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/authors/razvan-pascanu/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imirzadeh.me/tags/</loc>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/publication/cl-training-regime/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imirzadeh.me/publication_types/1/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/publication/dropout-cl/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/publication/optideploy/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
@@ -79,12 +84,12 @@
   
   <url>
     <loc>https://imirzadeh.me/authors/ang-li/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://imirzadeh.me/publication/takd/</loc>
-    <lastmod>2020-07-25T01:47:55-07:00</lastmod>
+    <lastmod>2020-09-27T05:37:20-07:00</lastmod>
   </url>
   
   <url>
@@ -154,10 +159,6 @@
   <url>
     <loc>https://imirzadeh.me/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imirzadeh.me/tags/</loc>
   </url>
   
 </urlset>

@@ -5,12 +5,20 @@
     <link>https://imirzadeh.me/publication_types/1/</link>
       <atom:link href="https://imirzadeh.me/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2020 00:03:28 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2020 01:22:35 -0700</lastBuildDate>
     <image>
       <url>https://imirzadeh.me/images/icon_hu5411dd94d9196e41ee7872a2b69618e5_37186_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://imirzadeh.me/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Understanding the Role of Training Regimes in Continual Learning</title>
+      <link>https://imirzadeh.me/publication/cl-training-regime/</link>
+      <pubDate>Sat, 25 Jul 2020 01:22:35 -0700</pubDate>
+      <guid>https://imirzadeh.me/publication/cl-training-regime/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dropout as an Implicit Gating Mechanism For Continual Learning</title>

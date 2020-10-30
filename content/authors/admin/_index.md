@@ -24,6 +24,7 @@ interests:
 - Machine Learning
 - Deep Learning
 - Model Optimization
+- Continual Learning
 - Causal Inference and Counterfactual Reasoning
 
 education:
@@ -63,7 +64,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -71,8 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student and Graduate Research Assistant at the Washington State University [Embedded and Pervasive Systems Laboratory (EPSL)](http://epsl.eecs.wsu.edu/people/) under supervision of [Dr. Hassan Ghasemzadeh](https://eecs.wsu.edu/~hassan/). I am interested in the real-world challenges of working with machine learning models such as energy constraints and human-in-the-loop interactions with these models. Specifically, I am focusing on Model Optimization (such as model compression), where my goal is to build more efficient models or use the existing models more efficiently!
-
+I am a Ph.D. student and Graduate Research Assistant at the Washington State University [Embedded and Pervasive Systems Laboratory (EPSL)](http://epsl.eecs.wsu.edu/) under supervision of [Dr. Hassan Ghasemzadeh](https://eecs.wsu.edu/~hassan/). I am interested in the real-world challenges of working with machine learning models, such as model efficiency and learning ability. Specifically, I am focusing on Model Optimization (e.g., model compression) and Continual (Lifelong) Learning, and my goal is to build efficient learning algorithms that help machines learn the same as humans.
 
 Before joining EPSL, I was an ML Engineer at [Sokhan AI](https://www.linkedin.com/company/fanavaran-etelaate-sokhan/), where we provided accurate and scalable Natural Language Processing (NLP) and Computer Vision (CV) services to businesses.
-
