@@ -12,7 +12,7 @@ date: 2019-11-10T19:06:19-08:00
 lastmod: 2019-11-10T19:06:19-08:00
 featured: true
 draft: false
-publication: AAAI Conference on Artificial Intelligence (AAAI) 2020
+publication: AAAI Conference on Artificial Intelligence (AAAI), 2020
 publication_types: ["1"]
 
 url_pdf: https://arxiv.org/abs/1902.03393

@@ -32,6 +32,9 @@ education:
   - course: PhD in Computer Science (Artificial Intelligence)
     institution: Washington State University
     year: 2018-present
+  - course: MSc in Computer Science (Artificial Intelligence)
+    institution: Washington State University
+    year: 2018-2020
   - course: BSc in Computer Engineering (Information Technology)
     institution: University of Tehran
     year: 2013-2018

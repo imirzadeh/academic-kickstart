@@ -16,7 +16,7 @@ publishDate: 2020-04-21T00:03:28-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2020"
+publication: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2020"
 publication_short: ""
 
 abstract: ""

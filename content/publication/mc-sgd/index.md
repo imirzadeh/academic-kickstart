@@ -13,11 +13,11 @@ publishDate: 2020-07-25T01:22:35-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
-publication_short: ""
+publication: "International Conference on Learning Representations (ICLR), 2021"
+publication_short: "ICLR21"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2010.04495.pdf
+url_pdf: https://openreview.net/forum?id=Fmg_fQYUejf
 url_code: https://github.com/imirzadeh/MC-SGD
 url_dataset:
 url_poster:
